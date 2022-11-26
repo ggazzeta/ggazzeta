@@ -8,7 +8,8 @@ Atualmente trabalho como Analista de Desenvolvimento Pleno, com especialização
 Nas horas vagas eu sou um desenvolvedor de jogos indie.
 <div>
   <a href="https://www.linkedin.com/in/gustavo-gazzeta-351000120/" onclick='window.open("http://www.foracure.org.au");return false;' rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img alt="followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ggazzeta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/ggazzeta?tab=repositories&q=&type=&language=&sort=stargazers">
+<img alt="followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ggazzeta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   <a href="https://www.instagram.com/gugazzeta/" onclick='window.open("http://www.foracure.org.au");return false;' rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="mailto:ggazzeta@gmail.com" onclick='window.open("http://www.foracure.org.au");return false;' rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://ggazzeta.itch.io/" onclick='window.open("http://www.foracure.org.au");return false;' rel="noopener noreferrer"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
