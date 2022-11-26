@@ -25,12 +25,13 @@ Nas horas vagas eu sou um desenvolvedor de jogos indie.
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img title="Unity 3D" align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://img.icons8.com/nolan/512/unity.png" />
-<img title="SQL Server" align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://img.icons8.com/color/512/microsoft-sql-server.png" />
+<img title="zOS" align="left" alt="SQL" width="45px" style="padding-right:10px;" src="https://www.instana.com/media/01_INSTANA_zOS.svg" />
+<img title="DB2" align="left" alt="SQL" width="45px" style="padding-right:10px;" src="https://horusinfo.com.br/wp-content/uploads/2017/05/IBM-DB2.png" />
 <br />
  
 
 #
 
 ### Portfólio
-   <a href="https://ggazzeta.itch.io/fingerball-world-cup"><img src="https://iili.io/HFmUCcF.md.png" alt="HFmUCcF.md.png" border="0"/>
+   <a href="https://ggazzeta.itch.io/fingerball-world-cup"><img src="https://iili.io/HFmUCcF.md.png" alt="HFmUCcF.md.png" border="0"/><br />
    <a href="https://ggazzeta.itch.io/dont-get-cowt"><img src="https://iili.io/HFmUQRa.md.png" alt="HFmUQRa.md.png" border="0"></a>
