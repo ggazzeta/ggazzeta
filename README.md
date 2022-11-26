@@ -7,12 +7,12 @@ Sou formado em Jogos Digitais pela Faculdade de Tecnologia do Estado de São Pau
 Atualmente trabalho como Analista de Desenvolvimento Pleno, com especialização em C#, .NET e SQL Server.
 Nas horas vagas eu sou um desenvolvedor de jogos indie.
 <div>
-  <a href="https://www.linkedin.com/in/gustavo-gazzeta-351000120/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-gazzeta-351000120/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <img alt="followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ggazzeta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-  <a href="https://www.instagram.com/gugazzeta/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  <a href="mailto:ggazzeta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="https://ggazzeta.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white">
+  <a href="https://www.instagram.com/gugazzeta/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <a href="mailto:ggazzeta@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://ggazzeta.itch.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white">
 
 </div>
     
