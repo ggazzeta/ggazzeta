@@ -2,7 +2,7 @@
 
 **`Analista de Desenvolvimento e Desenvolvedor de Jogos`**
 
-Olá! Meu nome é Gustavo Segato Gazzeta. Eu tenho 27 anos e sou um desenvolvedor full-stack.
+Olá! Meu nome é Gustavo Segato Gazzeta. Eu tenho 29 anos e sou um desenvolvedor C# BackEnd.
 Sou formado em Jogos Digitais pela Faculdade de Tecnologia do Estado de São Paulo (Fatec).
 Atualmente trabalho como Analista de Desenvolvimento Pleno, com especialização em C#, .NET e SQL Server.
 Nas horas vagas eu sou um desenvolvedor de jogos indie.
